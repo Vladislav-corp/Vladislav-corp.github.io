@@ -18,6 +18,7 @@ We typically reply within 1–2 business days.
 ## Our apps
 
 - Vitals Screen – health metrics dashboard (iPhone)
+- ImViz – text recognition from photos, PDFs, and files (iPhone)
 - Habio: Habit Tracker (iPhone)
 - ClearPhoto Swipe (iPhone)
 - Cleanbook Contact (iPhone)
